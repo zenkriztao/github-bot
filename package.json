@@ -1,0 +1,25 @@
+{
+  "name": "github-bot",
+  "version": "1.0.0",
+  "description": "Github Bot that hacks the Github Contribution Graph",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zenkriztao/github-bot.git"
+  },
+  "author": "zenkriztao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zenkriztao/github-bot/issues"
+  },
+  "homepage": "https://github.com/zenkriztao/github-bot#readme",
+  "dependencies": {
+    "jsonfile": "^6.0.1",
+    "moment": "^2.26.0",
+    "random": "^2.2.0",
+    "simple-git": "^2.5.0"
+  }
+}
